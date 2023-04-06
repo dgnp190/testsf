@@ -3,7 +3,7 @@ const axios = require("axios");
 const responses = require("./responses");
 const info = require("./info");
 
-const token = "6218631437:AAFWY5MCjJXJ4ohTYEL_LVxjgmzwsHtwyR0";
+const token = "6218631437:AAFHlO9zH-UAhfevjxPInaiLU-Vdp2JELMs";
 const ytApiKey = "AIzaSyCIITzJYoHA7OWwXSTUVtSNDvyZes0zuZY";
 
 const bot = new Telegraf(token);
